@@ -37,7 +37,7 @@ A modern, feature-rich To Do List web application with CRUD operations, progress
 
 ## Screenshots
 
-![To Do List Screenshot](images/screenshot.png)
+![To Do List Screenshot](images/Screenshot.png)
 
 ## License
 

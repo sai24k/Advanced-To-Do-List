@@ -106,7 +106,7 @@ document.getElementById('newTask').addEventListener('click',function(e){
 
 const blastConfetti=()=>{
    // Confetti logic here
-const end = Date.now() + 15 * 1000;
+const end = Date.now() + 5 * 1000;
 
 // go Buckeyes!
 const colors = ["#bb0000", "#ffffff"];

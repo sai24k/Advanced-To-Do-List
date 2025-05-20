@@ -15,6 +15,9 @@
 
 
 body{
+  font-family: 'Montserrat', sans-serif;
+
+
     background-color: var(--background);
     color: var(--text);
 }
@@ -41,7 +44,7 @@ button{
     align-items: center;
     background-color: var(--purple);
     justify-content: center;
-    color: var(--teal);
+    color: rgb(246, 246, 246);
     font-size: 30px;
     font-weight: bold;
 }
@@ -103,7 +106,7 @@ button{
     color: #888;
 }
 .task.completed {
-    background-color: var(--teal);
+    background-color:  null;
 }
 #task-list{
     display: flex;
@@ -115,14 +118,14 @@ button{
 }
 #progress{
     width:50%;
-    height:10px;
+    height:20px;
     background-color: var(--teal);
     border-radius: 10px;
     transition: width 0.5s ease;
 }
 #progress-bar{
     width:100%;
-    height:10px;
+    height:20px;
     background-color: var(--secondaryBackground);
     border-radius: 5px;
     margin-top: 2px;
