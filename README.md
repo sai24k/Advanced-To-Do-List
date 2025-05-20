@@ -1,6 +1,6 @@
 # Advanced To Do List App
 
-A modern, feature-rich To Do List web application with CRUD operations, progress tracking, confetti celebration, and persistent local storage
+A modern, feature-rich To Do List web application with CRUD operations, progress tracking, confetti celebration, and persistent local storage.
 
 ## Features
 
@@ -23,6 +23,7 @@ A modern, feature-rich To Do List web application with CRUD operations, progress
 5. **Celebrate:** Complete all tasks to trigger a confetti celebration!
 
 ## Tech Stack
+
 - **HTML5**
 - **CSS3** (custom styles, transitions)
 - **JavaScript** (ES6+)
