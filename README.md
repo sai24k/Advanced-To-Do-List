@@ -1,6 +1,6 @@
 # Advanced To Do List App
 
-A modern, feature-rich To Do List web application with CRUD operations, progress tracking, confetti celebration, and persistent local storage.
+A modern, feature-rich To Do List web application with CRUD operations, progress tracking, confetti celebration, and persistent local storage
 
 ## Features
 
