@@ -30,11 +30,16 @@ A modern, feature-rich To Do List web application with CRUD operations, progress
 - **LocalStorage** for persistence
 - **[tsParticles Confetti](https://github.com/tsparticles/confetti)** for celebration effect
 
+
 ## Getting Started
 
 1. Clone or download this repository.
 2. Open `index.html` in your browser.
 3. Start managing your tasks!
+
+## Visit Website
+
+You can try the live app here: [https://sai24k.github.io/Advanced-To-Do-List/](https://sai24k.github.io/Advanced-To-Do-List/)
 
 ## Screenshots
 
